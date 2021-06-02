@@ -12,12 +12,8 @@
       <change afterPath="$PROJECT_DIR$/../polls/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookmark/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmark/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookmark/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmark/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../polls/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../polls/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../polls/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../polls/polls/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../polls/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../polls/polls/models.py" afterDir="false" />
