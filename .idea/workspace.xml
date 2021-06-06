@@ -12,8 +12,9 @@
       <change afterPath="$PROJECT_DIR$/../polls/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmark/templates/bookmark/bookmark_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookmark/templates/bookmark/bookmark_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookmark/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmark/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookmark/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookmark/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../polls/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../polls/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../polls/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../polls/polls/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../polls/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../polls/polls/models.py" afterDir="false" />
