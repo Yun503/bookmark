@@ -5,8 +5,16 @@
     <title>Title</title>
 </head>
 <body>
+{% extends 'base.html' %}
+
+{% block title %}
+    Detail
+{% endblock %}
+
+{% block content %}
     {{object.site_name}}<br/>
     {{object.url}}
+{% endblock %}
     <div class="btn-group">
         <a href="{% url 'list' %}" class="btn-info">Go Back!</a>
     </div>
